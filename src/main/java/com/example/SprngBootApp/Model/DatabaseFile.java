@@ -17,6 +17,9 @@ public class DatabaseFile {
     @GenericGenerator(name = "uuid", strategy = "uuid2")
     private String Id;
 
+
+
+
     private String fileName;
 
     private String fileType;
